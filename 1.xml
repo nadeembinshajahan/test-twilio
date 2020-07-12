@@ -1,0 +1,5 @@
+<Response>
+    <Say voice="alice">
+        EMERGENCY!! An accident has occurred. Location will be sent via SMS to this number.
+    </Say>
+</Response>
