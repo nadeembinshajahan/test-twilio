@@ -2,5 +2,4 @@
     <Say voice="alice">
         EMERGENCY!! An accident has occurred. Location will be sent via SMS to this number.
     </Say>
-    <Play>https://github.com/nadeembinshajahan/test-twilio/blob/master/1.mp3</Play>
 </Response>
